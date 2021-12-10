@@ -16,7 +16,7 @@ namespace SyntaxSugarDemo
             {
                 Console.WriteLine($"{answer} is greater than or equal to nine"); ;
             }
-            Console.WriteLine(answer);
+        
         }
     }
 }
